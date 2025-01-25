@@ -1,0 +1,209 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\madie\\Downloads\\Getsemani\\Videojuegos\\Carrito\\videogames1\\FinalProyect\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE8C45B-DA75-6779-D8B8-CBCD5F6A27AA}|Assembly-CSharp.csproj|C:\\Users\\madie\\Downloads\\Getsemani\\Videojuegos\\Carrito\\videogames1\\FinalProyect\\assets\\scripts\\prometeoeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE8C45B-DA75-6779-D8B8-CBCD5F6A27AA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\prometeoeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE8C45B-DA75-6779-D8B8-CBCD5F6A27AA}|Assembly-CSharp.csproj|c:\\users\\madie\\downloads\\getsemani\\videojuegos\\carrito\\videogames1\\finalproyect\\assets\\scripts\\prometeocarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE8C45B-DA75-6779-D8B8-CBCD5F6A27AA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\prometeocarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE8C45B-DA75-6779-D8B8-CBCD5F6A27AA}|Assembly-CSharp.csproj|C:\\Users\\madie\\Downloads\\Getsemani\\Videojuegos\\Carrito\\videogames1\\FinalProyect\\assets\\scripts\\iniciojugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE8C45B-DA75-6779-D8B8-CBCD5F6A27AA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\iniciojugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE8C45B-DA75-6779-D8B8-CBCD5F6A27AA}|Assembly-CSharp.csproj|C:\\Users\\madie\\Downloads\\Getsemani\\Videojuegos\\Carrito\\videogames1\\FinalProyect\\assets\\scripts\\objectcollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE8C45B-DA75-6779-D8B8-CBCD5F6A27AA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objectcollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE8C45B-DA75-6779-D8B8-CBCD5F6A27AA}|Assembly-CSharp.csproj|c:\\users\\madie\\downloads\\getsemani\\videojuegos\\carrito\\videogames1\\finalproyect\\assets\\scripts\\weather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE8C45B-DA75-6779-D8B8-CBCD5F6A27AA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE8C45B-DA75-6779-D8B8-CBCD5F6A27AA}|Assembly-CSharp.csproj|C:\\Users\\madie\\Downloads\\Getsemani\\Videojuegos\\Carrito\\videogames1\\FinalProyect\\assets\\scripts\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE8C45B-DA75-6779-D8B8-CBCD5F6A27AA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE8C45B-DA75-6779-D8B8-CBCD5F6A27AA}|Assembly-CSharp.csproj|C:\\Users\\madie\\Downloads\\Getsemani\\Videojuegos\\Carrito\\videogames1\\FinalProyect\\assets\\scripts\\puntaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE8C45B-DA75-6779-D8B8-CBCD5F6A27AA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\puntaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE8C45B-DA75-6779-D8B8-CBCD5F6A27AA}|Assembly-CSharp.csproj|C:\\Users\\madie\\Downloads\\Getsemani\\Videojuegos\\Carrito\\videogames1\\FinalProyect\\assets\\scripts\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE8C45B-DA75-6779-D8B8-CBCD5F6A27AA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE8C45B-DA75-6779-D8B8-CBCD5F6A27AA}|Assembly-CSharp.csproj|C:\\Users\\madie\\Downloads\\Getsemani\\Videojuegos\\Carrito\\videogames1\\FinalProyect\\assets\\scripts\\followplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE8C45B-DA75-6779-D8B8-CBCD5F6A27AA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\followplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE8C45B-DA75-6779-D8B8-CBCD5F6A27AA}|Assembly-CSharp.csproj|C:\\Users\\madie\\Downloads\\Getsemani\\Videojuegos\\Carrito\\videogames1\\FinalProyect\\assets\\scripts\\cronometer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE8C45B-DA75-6779-D8B8-CBCD5F6A27AA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cronometer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE8C45B-DA75-6779-D8B8-CBCD5F6A27AA}|Assembly-CSharp.csproj|C:\\Users\\madie\\Downloads\\Getsemani\\Videojuegos\\Carrito\\videogames1\\FinalProyect\\assets\\scripts\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE8C45B-DA75-6779-D8B8-CBCD5F6A27AA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrometeoCarController.cs",
+              "DocumentMoniker": "C:\\Users\\madie\\Downloads\\Getsemani\\Videojuegos\\Carrito\\videogames1\\FinalProyect\\Assets\\Scripts\\PrometeoCarController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PrometeoCarController.cs",
+              "ToolTip": "C:\\Users\\madie\\Downloads\\Getsemani\\Videojuegos\\Carrito\\videogames1\\FinalProyect\\Assets\\Scripts\\PrometeoCarController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PrometeoCarController.cs",
+              "ViewState": "AgIAAM4AAAAAAAAAAAAcwFgBAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T19:45:23.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InicioJugador.cs",
+              "DocumentMoniker": "C:\\Users\\madie\\Downloads\\Getsemani\\Videojuegos\\Carrito\\videogames1\\FinalProyect\\Assets\\Scripts\\InicioJugador.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InicioJugador.cs",
+              "ToolTip": "C:\\Users\\madie\\Downloads\\Getsemani\\Videojuegos\\Carrito\\videogames1\\FinalProyect\\Assets\\Scripts\\InicioJugador.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InicioJugador.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwCMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T18:04:46.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Musica.cs",
+              "DocumentMoniker": "C:\\Users\\madie\\Downloads\\Getsemani\\Videojuegos\\Carrito\\videogames1\\FinalProyect\\Assets\\Scripts\\Musica.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Musica.cs",
+              "ToolTip": "C:\\Users\\madie\\Downloads\\Getsemani\\Videojuegos\\Carrito\\videogames1\\FinalProyect\\Assets\\Scripts\\Musica.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Musica.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAcwFQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T17:59:39.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrometeoEditor.cs",
+              "DocumentMoniker": "C:\\Users\\madie\\Downloads\\Getsemani\\Videojuegos\\Carrito\\videogames1\\FinalProyect\\Assets\\Scripts\\PrometeoEditor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PrometeoEditor.cs",
+              "ToolTip": "C:\\Users\\madie\\Downloads\\Getsemani\\Videojuegos\\Carrito\\videogames1\\FinalProyect\\Assets\\Scripts\\PrometeoEditor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PrometeoEditor.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAwwMkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T09:05:36.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Weather.cs",
+              "DocumentMoniker": "C:\\Users\\madie\\Downloads\\Getsemani\\Videojuegos\\Carrito\\videogames1\\FinalProyect\\Assets\\Scripts\\Weather.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weather.cs",
+              "ToolTip": "C:\\Users\\madie\\Downloads\\Getsemani\\Videojuegos\\Carrito\\videogames1\\FinalProyect\\Assets\\Scripts\\Weather.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weather.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T09:06:17.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ObjectCollision.cs",
+              "DocumentMoniker": "C:\\Users\\madie\\Downloads\\Getsemani\\Videojuegos\\Carrito\\videogames1\\FinalProyect\\Assets\\Scripts\\ObjectCollision.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ObjectCollision.cs",
+              "ToolTip": "C:\\Users\\madie\\Downloads\\Getsemani\\Videojuegos\\Carrito\\videogames1\\FinalProyect\\Assets\\Scripts\\ObjectCollision.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ObjectCollision.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T08:21:41.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "C:\\Users\\madie\\Downloads\\Getsemani\\Videojuegos\\Carrito\\videogames1\\FinalProyect\\Assets\\Scripts\\CarController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CarController.cs",
+              "ToolTip": "C:\\Users\\madie\\Downloads\\Getsemani\\Videojuegos\\Carrito\\videogames1\\FinalProyect\\Assets\\Scripts\\CarController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CarController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwDYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T07:32:51.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Puntaje.cs",
+              "DocumentMoniker": "C:\\Users\\madie\\Downloads\\Getsemani\\Videojuegos\\Carrito\\videogames1\\FinalProyect\\Assets\\Scripts\\Puntaje.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Puntaje.cs",
+              "ToolTip": "C:\\Users\\madie\\Downloads\\Getsemani\\Videojuegos\\Carrito\\videogames1\\FinalProyect\\Assets\\Scripts\\Puntaje.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Puntaje.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T02:43:09.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cronometer.cs",
+              "DocumentMoniker": "C:\\Users\\madie\\Downloads\\Getsemani\\Videojuegos\\Carrito\\videogames1\\FinalProyect\\Assets\\Scripts\\Cronometer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Cronometer.cs",
+              "ToolTip": "C:\\Users\\madie\\Downloads\\Getsemani\\Videojuegos\\Carrito\\videogames1\\FinalProyect\\Assets\\Scripts\\Cronometer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Cronometer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T05:46:44.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FollowPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\madie\\Downloads\\Getsemani\\Videojuegos\\Carrito\\videogames1\\FinalProyect\\Assets\\Scripts\\FollowPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FollowPlayer.cs",
+              "ToolTip": "C:\\Users\\madie\\Downloads\\Getsemani\\Videojuegos\\Carrito\\videogames1\\FinalProyect\\Assets\\Scripts\\FollowPlayer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FollowPlayer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T06:49:09.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SpawnManager.cs",
+              "DocumentMoniker": "C:\\Users\\madie\\Downloads\\Getsemani\\Videojuegos\\Carrito\\videogames1\\FinalProyect\\Assets\\Scripts\\SpawnManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpawnManager.cs",
+              "ToolTip": "C:\\Users\\madie\\Downloads\\Getsemani\\Videojuegos\\Carrito\\videogames1\\FinalProyect\\Assets\\Scripts\\SpawnManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpawnManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T19:45:27.643Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
